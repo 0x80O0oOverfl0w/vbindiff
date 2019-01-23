@@ -1,3 +1,5 @@
+Pro tip: sudo apt-get install libtext-template-perl
+
 VBinDiff - Visual Binary Diff
 =============================
 
