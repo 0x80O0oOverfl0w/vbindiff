@@ -1,4 +1,4 @@
-Pro tip: sudo apt-get install libtext-template-perl
+Pro tip: sudo apt-get install libtemplate-perl libtext-template-perl
 
 VBinDiff - Visual Binary Diff
 =============================
